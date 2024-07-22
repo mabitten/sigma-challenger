@@ -1,0 +1,16 @@
+{
+  "name": "sigmachallenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "scriptTwo": "ts-node src/scriptNumberTwo.ts"
+  },
+  "keywords": [],
+  "author": "Matheus Bittencourt Azevedo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "typescript": "^5.5.3"
+  }
+}
